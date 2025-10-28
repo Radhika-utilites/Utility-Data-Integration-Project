@@ -103,15 +103,16 @@ Utility-Data-Integration-Project/
 | Day | Task | Status |
 |-----|------|--------|
 | **Day 1** | Project setup, SQL table creation, README added | ✅ Completed |
-| **Day 2** | Create sample data and load into SQL Server | ⏳ Pending |
-| **Day 3** | IICS mapping – Extract & Load basic flow | ⏳ Pending |
-| **Day 4** | SCD Type 2 for Customer | ⏳ Pending |
-| **Day 5** | Meter–Premise validation and error handling | ⏳ Pending |
-| **Day 6** | Reusable mappings and parameters | ⏳ Pending |
-| **Day 7** | Taskflow orchestration with loop and error path | ⏳ Pending |
-| **Day 8** | AWS S3 and Snowflake load | ⏳ Pending |
-| **Day 9** | Audit log and email notification | ⏳ Pending |
-| **Day 10** | Documentation and GitHub update | ⏳ Pending |
+| **Day 2** | Environment setup- IICS, SNOWFLAKE | ⏳ Pending  |
+| **Day 3** | Create sample data and load into SQL Server | ⏳ Pending |
+| **Day 4** | IICS mapping – Extract & Load basic flow | ⏳ Pending |
+| **Day 5** | SCD Type 2 for Customer | ⏳ Pending |
+| **Day 6** | Meter–Premise validation and error handling | ⏳ Pending |
+| **Day 7** | Reusable mappings and parameters | ⏳ Pending |
+| **Day 8** | Taskflow orchestration with loop and error path | ⏳ Pending |
+| **Day 9** | AWS S3 and Snowflake load | ⏳ Pending |
+| **Day 10** | Audit log and email notification | ⏳ Pending |
+| **Day 11** | Documentation and GitHub update | ⏳ Pending |
 
 ---
 
@@ -138,5 +139,6 @@ I’m updating this **README.md** daily with:
 - Progress made on that day ✅  
 - Screenshots or results 📊  
 - My key learnings 💡  
+
 
 This helps me (and recruiters) see **consistent hands-on activity** and growth in my IICS + Snowflake learning journey.
