@@ -3,10 +3,10 @@
 
 Set up and logged in to all tools required for my Utility Data Integration Project.
 
-Tool	Status	Notes
-Snowflake	✅ Logged in successfully	Free trial account created and activated. Yet to create DB, Schema, and Warehouse.
-AWS S3	✅ Logged in successfully	Will create bucket and folders in next step.
-Informatica IICS	✅ Logged in successfully	Trial access activated. Installed secure agent
+Tool	                   Status	                    Notes
+Snowflake	        ✅ Logged in successfully	  Free trial account created and activated. Yet to create DB, Schema, and Warehouse.
+AWS S3	          ✅ Logged in successfully	    Will create bucket and folders in next step.
+Informatica IICS	✅ Logged in successfully	  Trial access activated. Installed secure agent
 🧩 What I Did Today
 
 Signed up for Snowflake trial (Enterprise on AWS).
@@ -46,4 +46,5 @@ Screenshot of AWS Console login.
 🏁 Status
 
 Completed account setup and initial access successfully.
+
 Next: start with environment configuration and first mapping setup (sql → flatfile).
