@@ -103,7 +103,7 @@ Utility-Data-Integration-Project/
 | Day | Task | Status |
 |-----|------|--------|
 | **Day 1** | Project setup, SQL table creation, README added | ✅ Completed |
-| **Day 2** | Environment setup- IICS, SNOWFLAKE | ⏳ Pending  |
+| **Day 2** | Environment setup- IICS, SNOWFLAKE | ✅ Completed |
 | **Day 3** | Create sample data and load into SQL Server | ⏳ Pending |
 | **Day 4** | IICS mapping – Extract & Load basic flow | ⏳ Pending |
 | **Day 5** | SCD Type 2 for Customer | ⏳ Pending |
@@ -142,3 +142,4 @@ I’m updating this **README.md** daily with:
 
 
 This helps me (and recruiters) see **consistent hands-on activity** and growth in my IICS + Snowflake learning journey.
+
