@@ -12,7 +12,8 @@ GO
 CREATE TABLE CUSTOMER (
     Customer_ID INT PRIMARY KEY,
     Customer_Name VARCHAR(100),
-    Status VARCHAR(20)
+    Status VARCHAR(20),
+    Created_Date DATE DEFAULT GETDATE();
 );
 
 -- 2. CUSTOMER-PREMISE-SERVICEPOINT RELATION (XREF)
@@ -75,3 +76,4 @@ CREATE TABLE AUDIT_LOG (
     Row_Count INT
 );
 GO
+
